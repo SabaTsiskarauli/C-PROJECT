@@ -1,0 +1,18 @@
+[
+  {
+    "UserId": 1,
+    "MembershipId": "",
+    "PersonId": 1,
+    "FullName": "Giorgi Giorgadze",
+    "Email": "giorgi@gmail.com",
+    "Password": "$2a$11$mf2LEDqfOsxq0mtje22izOgnVh.OTp5CJVveXSKJYaKPUJOUOrrNq"
+  },
+  {
+    "UserId": 2,
+    "MembershipId": "MS102",
+    "PersonId": 2,
+    "FullName": "Saba Tsiskarauli",
+    "Email": "saba@gmail.com",
+    "Password": "$2a$11$qSUWN0FSzhHTBorJtZxBzePyvtqV8rKzDRP.sd7RtAjQJKZy5hw.e"
+  }
+]

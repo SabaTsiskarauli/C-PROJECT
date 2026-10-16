@@ -1,0 +1,30 @@
+[
+  {
+    "BookingId": "B801",
+    "MemberId": 1,
+    "SessionId": "WS506",
+    "CreatedAt": "2026-09-29T15:50:18.647857+04:00",
+    "Status": "Cancelled"
+  },
+  {
+    "BookingId": "B802",
+    "MemberId": 2,
+    "SessionId": "500",
+    "CreatedAt": "2026-09-30T16:45:48.6687539+04:00",
+    "Status": "Cancelled"
+  },
+  {
+    "BookingId": "B803",
+    "MemberId": 1,
+    "SessionId": "11",
+    "CreatedAt": "2026-09-30T16:50:11.2059355+04:00",
+    "Status": "Completed"
+  },
+  {
+    "BookingId": "B804",
+    "MemberId": 1,
+    "SessionId": "10",
+    "CreatedAt": "2026-09-30T20:45:58.1268703+04:00",
+    "Status": "Completed"
+  }
+]

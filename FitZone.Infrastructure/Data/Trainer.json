@@ -1,0 +1,20 @@
+[
+  {
+    "TrainerId": 777,
+    "Specialization": "Fitnes Trainer",
+    "WorkoutType": "Fitnes",
+    "PersonId": 777,
+    "FullName": "Good Trainer",
+    "Email": "trainer@gmail.com",
+    "Password": "$2b$12$Os6sNHmoQbpF/RvYm9e8JumnqcsQUavcU8MD7pWh.WSrcB.38gF7."
+  },
+  {
+    "TrainerId": 111,
+    "Specialization": "Boxing Trainer",
+    "WorkoutType": "Boxing",
+    "PersonId": 111,
+    "FullName": "Boxing Trainer",
+    "Email": "boxing@gmail.com",
+    "Password": "$2a$11$pOHZlCTTLxl4kIJufut2IegGuBOyt9hkRaHwj5TkA6lPSXPq4BrRC"
+  }
+]

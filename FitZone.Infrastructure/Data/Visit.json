@@ -1,0 +1,14 @@
+[
+  {
+    "VisitId": "V1",
+    "MemberId": 1,
+    "VisitDate": "2026-10-01T17:00:00",
+    "Status": "Completed"
+  },
+  {
+    "VisitId": "V2",
+    "MemberId": 1,
+    "VisitDate": "2026-10-02T15:00:00",
+    "Status": "Completed"
+  }
+]

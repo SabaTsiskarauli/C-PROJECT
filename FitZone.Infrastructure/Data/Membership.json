@@ -1,0 +1,22 @@
+[
+  {
+    "MembershipId": "MS101",
+    "MemberId": 1,
+    "Type": "Premium",
+    "StartDate": "2026-09-29T15:42:23.3896652+04:00",
+    "EndDate": "2026-10-29T15:42:23.3896652+04:00",
+    "RemainingVisits": null,
+    "Status": "Active",
+    "VisitLimit": -1
+  },
+  {
+    "MembershipId": "MS102",
+    "MemberId": 2,
+    "Type": "Basic",
+    "StartDate": "2026-09-30T16:43:05.8941649+04:00",
+    "EndDate": "2026-10-30T16:43:05.8941649+04:00",
+    "RemainingVisits": 8,
+    "Status": "Active",
+    "VisitLimit": 8
+  }
+]
