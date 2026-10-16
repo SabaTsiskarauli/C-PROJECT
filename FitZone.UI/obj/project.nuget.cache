@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2eM87DH98Jk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xachi\\OneDrive\\Desktop\\backend\\FitZone.UI\\FitZone.UI\\FitZone.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xachi\\.nuget\\packages\\bcrypt.net-next\\4.2.0\\bcrypt.net-next.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
